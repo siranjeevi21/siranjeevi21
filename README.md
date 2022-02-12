@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @siranjeevi21
 - 👀 I’m interested in software Development
-- 🌱 I’m currently learning System Design, SQL, Database Management System, Operating System, Data Structures and Algorithms.
+- 🌱 I’m currently learning System Design, SQL, Database Management System, Operating System, Data Structures and Algorithms
 - 📫 How to reach me at jeevisiran21@gmail.com
 
 <!---
