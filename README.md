@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @siranjeevi21
 - 👀 I’m interested in software Development
-- 🌱 I’m currently working as software developer at Enkindle Technologies Pvt Ltd.
+- 🌱 I’m currently working as Jr.software developer at Enkindle Technologies Pvt Ltd.
 - 📫 How to reach me at jeevisiran21@gmail.com
 
 <!---
